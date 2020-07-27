@@ -13,7 +13,7 @@ Iron Man \
 Thor: The Dark World \
 Thor \
 Captain America: The First Avenger \
-Ant-Man \
+Ant-Man
 
 2. Recommendation system using collabarative filtering made using Pearson Correlation matrix. (In directory : Movie_recommendation_using_Collabrative_filtering)
 
